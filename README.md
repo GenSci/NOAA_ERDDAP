@@ -1,2 +1,2 @@
-# CoastWatchData
-Developing Python class(es) to facilitate the easy access and analysis of NOAA CoastWatch data using ERDDAP
+# NOAA ERDDAP
+Developing Python class(es) to facilitate the easy access and analysis of NOAA satellite data hosted on ERDDAP servers
